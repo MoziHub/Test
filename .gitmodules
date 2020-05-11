@@ -1,3 +1,6 @@
 [submodule "Toast-Swift"]
 	path = Toast-Swift
 	url = https://github.com/scalessec/Toast-Swift.git
+[submodule "helloworld"]
+	path = helloworld
+	url = https://github.com/MoziHub/helloworld.git
